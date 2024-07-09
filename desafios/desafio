@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bibliografia</title>
+    <link rel="shortcut icon" href="Simpleicons-Team-Simple-Simplenote.512.png" type="image/x-icon">
+</head>
+<body>
+    <h1>Tudo sobre mim!</h1>
+    <h2>Quem eu sou?</h2>
+    <img src="fotosorriso.jpeg" alt="Foto de um homem" srcset="">
+    <p>Meu nome é <b>João Vitor Rosa</b>, tenho 19 anos e sou estudante universitário na área de Tecnologia da Informação. <br> Sou apaixonado por resolver problemas complexos e por descobrir novas tecnologias que possam transformar o mundo ao nosso redor. <br> Tenho um espírito curioso e estou sempre buscando aprender e aprimorar minhas habilidades em programação, desenvolvimento de software e segurança da informação. <br> Além dos estudos, gosto de passar meu tempo livre explorando novos projetos de programação, jogando videogames e acompanhando as últimas tendências tecnológicas. </p>
+    <h2>Como me encontar?</h2>
+    <p>
+        <a href="https://www.instagram.com/_sorrisopaivaa/"><img src="icone-instagram (1).png" alt="Logo do instagram."> <u>/_sorrisopaivaa</u></a>-Me segue lá no Instagram.
+    </p>
+</body>
+</html>
